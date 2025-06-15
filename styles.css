@@ -12,6 +12,7 @@ body {
   align-items: center;
   padding: 1rem 2rem;
   font-weight: bold;
+  font-size: 1.2rem;
 }
 
 nav a {
@@ -24,7 +25,7 @@ nav a {
   position: sticky;
   top: 0;
   z-index: 10;
-  background: url('https://images.unsplash.com/photo-1506765515384-028b60a970df') no-repeat center center/cover;
+  background: url('https://www.shutterstock.com/image-vector/minimalist-food-wine-linocat-vector-600nw-2521523039.jpg') no-repeat center center/cover;
   color: white;
   text-align: center;
   padding: 60px 20px;
@@ -75,7 +76,7 @@ p {
   line-height: 1;
   font-weight: bold;
   padding-right: 10px;
-  color: #00332f;
+  color: #6d4c41;
 }
 
 /* Tooltip Styles */
@@ -87,7 +88,7 @@ p {
 
 .tooltip .tooltip-text {
   visibility: hidden;
-  width: 160px;
+  width: 200px;
   background-color: #333;
   color: #fff;
   text-align: center;
